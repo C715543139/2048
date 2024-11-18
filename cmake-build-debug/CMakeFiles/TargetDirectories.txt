@@ -1,3 +1,0 @@
-E:/Codes/2048/cmake-build-debug/CMakeFiles/2048.dir
-E:/Codes/2048/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Codes/2048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
